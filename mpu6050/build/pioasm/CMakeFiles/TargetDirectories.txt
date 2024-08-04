@@ -1,0 +1,3 @@
+/home/kwon/embedded_ws/rasberry_ws/pico_ws/mpu6050/build/pioasm/CMakeFiles/pioasm.dir
+/home/kwon/embedded_ws/rasberry_ws/pico_ws/mpu6050/build/pioasm/CMakeFiles/edit_cache.dir
+/home/kwon/embedded_ws/rasberry_ws/pico_ws/mpu6050/build/pioasm/CMakeFiles/rebuild_cache.dir
