@@ -533,10 +533,6 @@ Discarded input sections
  .text          0x0000000000000000        0x0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
  .data          0x0000000000000000        0x0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
- .text.push_r8_r11
-                0x0000000000000000        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
- .text.pop_r8_r11
-                0x0000000000000000        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
  .text.__wrap___aeabi_dcmpeq
                 0x0000000000000000       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
  .text.__wrap___aeabi_ui2d
@@ -567,10 +563,6 @@ Discarded input sections
                 0x0000000000000000       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
  .text.double2ufix
                 0x0000000000000000       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
- .text.__wrap___aeabi_d2f
-                0x0000000000000000       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
- .text.__wrap_srqt
-                0x0000000000000000       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
  .text.__wrap_sincostan_remainder
                 0x0000000000000000       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
  .text.__wrap_cos
@@ -581,8 +573,6 @@ Discarded input sections
                 0x0000000000000000       0xa0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
  .text.__wrap_tan
                 0x0000000000000000       0x5c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
- .text.__wrap_atan2
-                0x0000000000000000       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
  .text.__wrap_exp
                 0x0000000000000000       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
  .text.__wrap_log
@@ -665,21 +655,8 @@ Discarded input sections
  .text          0x0000000000000000        0x0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
  .data          0x0000000000000000        0x0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
- .text.dsqrt_shim
-                0x0000000000000000      0x1a8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
- .text.dcordic_vec_step
-                0x0000000000000000        0xe CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
- .text.dcordic_rot_step
-                0x0000000000000000       0x76 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
  .text.double2int_shim
                 0x0000000000000000        0xe CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
- .text.double2int64_shim
-                0x0000000000000000       0x1a CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
- .text.double2float_shim
-                0x0000000000000000       0x5c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
- .text.x2double_shims
-                0x0000000000000000       0x90 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
- .text.dreduce  0x0000000000000000       0x82 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
  .text.dtan_shim
                 0x0000000000000000       0x20 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
  .text.dcos_shim
@@ -688,8 +665,6 @@ Discarded input sections
                 0x0000000000000000       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
  .text.dsincos_shim
                 0x0000000000000000       0x20 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
- .text.dtrig_guts
-                0x0000000000000000      0x2ec CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
  .text.dexp_guts
                 0x0000000000000000      0x268 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
  .text          0x0000000000000000        0x0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
@@ -1160,11 +1135,9 @@ Discarded input sections
                 0x0000000000000000       0x48 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
  .text.i2c_read_timeout_per_char_us
                 0x0000000000000000       0x48 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
- .data.i2c1_inst
-                0x0000000000000000        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
- .text          0x0000000000000000        0x0 /tmp/cczRKz9n.o
- .data          0x0000000000000000        0x0 /tmp/cczRKz9n.o
- .bss           0x0000000000000000        0x0 /tmp/cczRKz9n.o
+ .text          0x0000000000000000        0x0 /tmp/ccapCVVp.o
+ .data          0x0000000000000000        0x0 /tmp/ccapCVVp.o
+ .bss           0x0000000000000000        0x0 /tmp/ccapCVVp.o
  .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
  .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
  .text          0x0000000000000000       0x10 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-atexit.o)
@@ -1428,11 +1401,11 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nof
 .boot2          0x0000000010000000      0x100
                 0x0000000010000000                __boot2_start__ = .
  *(.boot2)
- .boot2         0x0000000010000000      0x100 /tmp/cczRKz9n.o
+ .boot2         0x0000000010000000      0x100 /tmp/ccapCVVp.o
                 0x0000000010000100                __boot2_end__ = .
                 0x0000000000000001                ASSERT (((__boot2_end__ - __boot2_start__) == 0x100), ERROR: Pico second stage bootloader must be 256 bytes in size)
 
-.text           0x0000000010000100     0x6df8
+.text           0x0000000010000100     0x75f0
                 0x0000000010000100                __logical_binary_start = .
  *(.vectors)
  .vectors       0x0000000010000100       0xd4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
@@ -1499,600 +1472,650 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nof
  .text.mpu6050_read_raw
                 0x00000000100003a0       0x5c CMakeFiles/mpu6050.dir/src/main.c.obj
                 0x00000000100003a0                mpu6050_read_raw
+ .text.cal_angle
+                0x00000000100003fc      0x14c CMakeFiles/mpu6050.dir/src/main.c.obj
+                0x00000000100003fc                cal_angle
  .text.startup.main
-                0x00000000100003fc      0x1a0 CMakeFiles/mpu6050.dir/src/main.c.obj
-                0x00000000100003fc                main
+                0x0000000010000548      0x148 CMakeFiles/mpu6050.dir/src/main.c.obj
+                0x0000000010000548                main
  .text.gpio_set_function
-                0x000000001000059c       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
-                0x000000001000059c                gpio_set_function
+                0x0000000010000690       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
+                0x0000000010000690                gpio_set_function
  .text.gpio_set_pulls
-                0x00000000100005cc       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
-                0x00000000100005cc                gpio_set_pulls
+                0x00000000100006c0       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
+                0x00000000100006c0                gpio_set_pulls
  .text.running_on_fpga
-                0x00000000100005fc       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
-                0x00000000100005fc                running_on_fpga
+                0x00000000100006f0       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
+                0x00000000100006f0                running_on_fpga
  .text.hw_claim_or_assert
-                0x000000001000060c       0x44 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
-                0x000000001000060c                hw_claim_or_assert
+                0x0000000010000700       0x44 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
+                0x0000000010000700                hw_claim_or_assert
  .text.hw_claim_unused_from_range
-                0x0000000010000650       0x9c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
-                0x0000000010000650                hw_claim_unused_from_range
+                0x0000000010000744       0x9c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
+                0x0000000010000744                hw_claim_unused_from_range
  .text.spin_locks_reset
-                0x00000000100006ec       0x1c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
-                0x00000000100006ec                spin_locks_reset
+                0x00000000100007e0       0x1c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+                0x00000000100007e0                spin_locks_reset
  .text.next_striped_spin_lock_num
-                0x0000000010000708       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
-                0x0000000010000708                next_striped_spin_lock_num
+                0x00000000100007fc       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+                0x00000000100007fc                next_striped_spin_lock_num
  .text.spin_lock_claim_unused
-                0x0000000010000720       0x20 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
-                0x0000000010000720                spin_lock_claim_unused
+                0x0000000010000814       0x20 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+                0x0000000010000814                spin_lock_claim_unused
  .text.irq_set_enabled
-                0x0000000010000740       0x24 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x0000000010000740                irq_set_enabled
+                0x0000000010000834       0x24 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010000834                irq_set_enabled
  .text.irq_set_pending
-                0x0000000010000764       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x0000000010000764                irq_set_pending
+                0x0000000010000858       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010000858                irq_set_pending
  .text.irq_has_shared_handler
-                0x0000000010000774       0x2c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x0000000010000774                irq_has_shared_handler
+                0x0000000010000868       0x2c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010000868                irq_has_shared_handler
  .text.irq_get_vtable_handler
-                0x00000000100007a0       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x00000000100007a0                irq_get_vtable_handler
+                0x0000000010000894       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010000894                irq_get_vtable_handler
  .text.irq_set_exclusive_handler
-                0x00000000100007b0       0x54 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x00000000100007b0                irq_set_exclusive_handler
+                0x00000000100008a4       0x54 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x00000000100008a4                irq_set_exclusive_handler
  .text.irq_add_shared_handler
-                0x0000000010000804      0x1e8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x0000000010000804                irq_add_shared_handler
+                0x00000000100008f8      0x1e8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x00000000100008f8                irq_add_shared_handler
  .text.irq_remove_handler
-                0x00000000100009ec      0x1b0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x00000000100009ec                irq_remove_handler
+                0x0000000010000ae0      0x1b0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010000ae0                irq_remove_handler
  .text.irq_add_tail_to_free_list
-                0x0000000010000b9c       0xb4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x0000000010000b9c                irq_add_tail_to_free_list
+                0x0000000010000c90       0xb4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010000c90                irq_add_tail_to_free_list
  .text.irq_init_priorities
-                0x0000000010000c50       0x24 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x0000000010000c50                irq_init_priorities
+                0x0000000010000d44       0x24 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010000d44                irq_init_priorities
  .text.user_irq_claim_unused
-                0x0000000010000c74       0x28 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x0000000010000c74                user_irq_claim_unused
+                0x0000000010000d68       0x28 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010000d68                user_irq_claim_unused
  .text.lock_init
-                0x0000000010000c9c       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_sync/lock_core.c.obj
-                0x0000000010000c9c                lock_init
+                0x0000000010000d90       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_sync/lock_core.c.obj
+                0x0000000010000d90                lock_init
  .text.mutex_init
-                0x0000000010000cac       0x1c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_sync/mutex.c.obj
-                0x0000000010000cac                mutex_init
+                0x0000000010000da0       0x1c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_sync/mutex.c.obj
+                0x0000000010000da0                mutex_init
  .text.recursive_mutex_init
-                0x0000000010000cc8       0x1c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_sync/mutex.c.obj
-                0x0000000010000cc8                recursive_mutex_init
+                0x0000000010000dbc       0x1c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_sync/mutex.c.obj
+                0x0000000010000dbc                recursive_mutex_init
  .text.critical_section_init
-                0x0000000010000ce4       0x20 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_sync/critical_section.c.obj
-                0x0000000010000ce4                critical_section_init
+                0x0000000010000dd8       0x20 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_sync/critical_section.c.obj
+                0x0000000010000dd8                critical_section_init
  .text.critical_section_init_with_lock_num
-                0x0000000010000d04       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_sync/critical_section.c.obj
-                0x0000000010000d04                critical_section_init_with_lock_num
+                0x0000000010000df8       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_sync/critical_section.c.obj
+                0x0000000010000df8                critical_section_init_with_lock_num
  .text.timer_pool_entry_comparator
-                0x0000000010000d18       0x34 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
-                0x0000000010000d18                timer_pool_entry_comparator
+                0x0000000010000e0c       0x34 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010000e0c                timer_pool_entry_comparator
  .text.sleep_until_callback
-                0x0000000010000d4c       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010000e40       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
  .text.add_alarm_under_lock.isra.0
-                0x0000000010000d7c      0x100 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010000e70      0x100 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
  .text.alarm_pool_alarm_callback
-                0x0000000010000e7c      0x1bc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010000f70      0x1bc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
  .text.alarm_pool_init_default
-                0x0000000010001038       0x6c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
-                0x0000000010001038                alarm_pool_init_default
+                0x000000001000112c       0x6c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
+                0x000000001000112c                alarm_pool_init_default
  .text.alarm_pool_get_default
-                0x00000000100010a4        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
-                0x00000000100010a4                alarm_pool_get_default
+                0x0000000010001198        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010001198                alarm_pool_get_default
  .text.alarm_pool_add_alarm_at
-                0x00000000100010ac      0x178 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
-                0x00000000100010ac                alarm_pool_add_alarm_at
+                0x00000000100011a0      0x178 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
+                0x00000000100011a0                alarm_pool_add_alarm_at
  .text.alarm_pool_core_num
-                0x0000000010001224        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
-                0x0000000010001224                alarm_pool_core_num
+                0x0000000010001318        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010001318                alarm_pool_core_num
  .text.sleep_until
-                0x0000000010001228       0xc4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
-                0x0000000010001228                sleep_until
+                0x000000001000131c       0xc4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
+                0x000000001000131c                sleep_until
  .text.sleep_ms
-                0x00000000100012ec       0x34 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
-                0x00000000100012ec                sleep_ms
+                0x00000000100013e0       0x34 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
+                0x00000000100013e0                sleep_ms
  .text.best_effort_wfe_or_timeout
-                0x0000000010001320       0xd4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
-                0x0000000010001320                best_effort_wfe_or_timeout
+                0x0000000010001414       0xd4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010001414                best_effort_wfe_or_timeout
  .text.hardware_alarm_irq_handler
-                0x00000000100013f4       0xbc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x00000000100014e8       0xbc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
  .text.hardware_alarm_claim
-                0x00000000100014b0       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x00000000100014b0                hardware_alarm_claim
+                0x00000000100015a4       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x00000000100015a4                hardware_alarm_claim
  .text.time_us_64
-                0x00000000100014c8       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x00000000100014c8                time_us_64
+                0x00000000100015bc       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x00000000100015bc                time_us_64
  .text.busy_wait_until
-                0x00000000100014dc       0x20 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x00000000100014dc                busy_wait_until
+                0x00000000100015d0       0x20 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x00000000100015d0                busy_wait_until
  .text.hardware_alarm_set_callback
-                0x00000000100014fc       0x8c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x00000000100014fc                hardware_alarm_set_callback
+                0x00000000100015f0       0x8c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x00000000100015f0                hardware_alarm_set_callback
  .text.hardware_alarm_set_target
-                0x0000000010001588       0xd4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x0000000010001588                hardware_alarm_set_target
+                0x000000001000167c       0xd4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x000000001000167c                hardware_alarm_set_target
  .text.hardware_alarm_cancel
-                0x000000001000165c       0x3c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x000000001000165c                hardware_alarm_cancel
+                0x0000000010001750       0x3c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x0000000010001750                hardware_alarm_cancel
  .text.ph_merge_nodes
-                0x0000000010001698       0x68 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x000000001000178c       0x68 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_util/pheap.c.obj
  .text.ph_post_alloc_init
-                0x0000000010001700       0x3c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_util/pheap.c.obj
-                0x0000000010001700                ph_post_alloc_init
+                0x00000000100017f4       0x3c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x00000000100017f4                ph_post_alloc_init
  .text.ph_merge_two_pass
-                0x000000001000173c       0x90 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_util/pheap.c.obj
-                0x000000001000173c                ph_merge_two_pass
+                0x0000000010001830       0x90 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x0000000010001830                ph_merge_two_pass
  .text.ph_remove_any_head
-                0x00000000100017cc      0x100 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x00000000100018c0      0x100 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_util/pheap.c.obj
  .text.ph_remove_head
-                0x00000000100018cc      0x104 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_util/pheap.c.obj
-                0x00000000100018cc                ph_remove_head
+                0x00000000100019c0      0x104 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x00000000100019c0                ph_remove_head
  .text.ph_remove_and_free_node
-                0x00000000100019d0       0x7c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_util/pheap.c.obj
-                0x00000000100019d0                ph_remove_and_free_node
+                0x0000000010001ac4       0x7c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x0000000010001ac4                ph_remove_and_free_node
  .text.clocks_init
-                0x0000000010001a4c      0x2d0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
-                0x0000000010001a4c                clocks_init
+                0x0000000010001b40      0x2d0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
+                0x0000000010001b40                clocks_init
  .text.clock_get_hz
-                0x0000000010001d1c        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
-                0x0000000010001d1c                clock_get_hz
+                0x0000000010001e10        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
+                0x0000000010001e10                clock_get_hz
  .text.pll_init
-                0x0000000010001d28       0xa0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
-                0x0000000010001d28                pll_init
+                0x0000000010001e1c       0xa0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
+                0x0000000010001e1c                pll_init
  .text.watchdog_start_tick
-                0x0000000010001dc8       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
-                0x0000000010001dc8                watchdog_start_tick
+                0x0000000010001ebc       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
+                0x0000000010001ebc                watchdog_start_tick
  .text.watchdog_reboot
-                0x0000000010001dd8       0x98 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
-                0x0000000010001dd8                watchdog_reboot
+                0x0000000010001ecc       0x98 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
+                0x0000000010001ecc                watchdog_reboot
  .text.xosc_init
-                0x0000000010001e70       0x28 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
-                0x0000000010001e70                xosc_init
+                0x0000000010001f64       0x28 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
+                0x0000000010001f64                xosc_init
  .text.runtime_init
-                0x0000000010001e98       0xf0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x0000000010001e98                runtime_init
- .text._exit    0x0000000010001f88        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x0000000010001f88                _exit
- .text.exit     0x0000000010001f8c        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x0000000010001f8c                exit
- .text.panic    0x0000000010001f94       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x0000000010001f94                panic
+                0x0000000010001f8c       0xf0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x0000000010001f8c                runtime_init
+ .text._exit    0x000000001000207c        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x000000001000207c                _exit
+ .text.exit     0x0000000010002080        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x0000000010002080                exit
+ .text.panic    0x0000000010002088       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x0000000010002088                panic
  .text.hard_assertion_failure
-                0x0000000010001fc4        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x0000000010001fc4                hard_assertion_failure
+                0x00000000100020b8        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x00000000100020b8                hard_assertion_failure
  .text._out_null
-                0x0000000010001fd0        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x00000000100020c4        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._out_rev
-                0x0000000010001fd4       0x9c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x00000000100020c8       0x9c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._ntoa_format
-                0x0000000010002070      0x1cc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x0000000010002164      0x1cc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._out_char
-                0x000000001000223c       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x0000000010002330       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._out_fct
-                0x000000001000224c       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
- .text._etoa    0x000000001000225c      0x44c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
- .text._ftoa    0x00000000100026a8      0x398 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x0000000010002340       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+ .text._etoa    0x0000000010002350      0x44c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+ .text._ftoa    0x000000001000279c      0x398 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._vsnprintf
-                0x0000000010002a40      0xb04 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x0000000010002b34      0xb04 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text.vfctprintf
-                0x0000000010003544       0x20 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
-                0x0000000010003544                vfctprintf
+                0x0000000010003638       0x20 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x0000000010003638                vfctprintf
  .text.weak_raw_vprintf
-                0x0000000010003564       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
-                0x0000000010003564                weak_raw_vprintf
- .text          0x0000000010003594       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
+                0x0000000010003658       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x0000000010003658                weak_raw_vprintf
+ .text          0x0000000010003688       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
  .text.rom_func_lookup
-                0x00000000100035a4       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
-                0x00000000100035a4                rom_func_lookup
+                0x0000000010003698       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+                0x0000000010003698                rom_func_lookup
  .text.rom_data_lookup
-                0x00000000100035b4       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
-                0x00000000100035b4                rom_data_lookup
+                0x00000000100036a8       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+                0x00000000100036a8                rom_data_lookup
  .text.rom_funcs_lookup
-                0x00000000100035c4       0x44 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
-                0x00000000100035c4                rom_funcs_lookup
+                0x00000000100036b8       0x44 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+                0x00000000100036b8                rom_funcs_lookup
  .text.__wrap___aeabi_idiv
-                0x0000000010003608       0x50 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
-                0x0000000010003608                __wrap___aeabi_idivmod
-                0x0000000010003608                divmod_s32s32
-                0x0000000010003608                div_s32s32
-                0x0000000010003608                __wrap___aeabi_idiv
-                0x0000000010003610                divmod_s32s32_unsafe
-                0x000000001000363c                divmod_s32s32_savestate
+                0x00000000100036fc       0x50 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
+                0x00000000100036fc                __wrap___aeabi_idivmod
+                0x00000000100036fc                divmod_s32s32
+                0x00000000100036fc                div_s32s32
+                0x00000000100036fc                __wrap___aeabi_idiv
+                0x0000000010003704                divmod_s32s32_unsafe
+                0x0000000010003730                divmod_s32s32_savestate
  .text.__wrap___aeabi_uidiv
-                0x0000000010003658       0x4c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
-                0x0000000010003658                __wrap___aeabi_uidiv
-                0x0000000010003658                __wrap___aeabi_uidivmod
-                0x0000000010003658                div_u32u32
-                0x0000000010003658                divmod_u32u32
-                0x0000000010003660                divmod_u32u32_unsafe
-                0x0000000010003688                divmod_u32u32_savestate
+                0x000000001000374c       0x4c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
+                0x000000001000374c                __wrap___aeabi_uidiv
+                0x000000001000374c                __wrap___aeabi_uidivmod
+                0x000000001000374c                div_u32u32
+                0x000000001000374c                divmod_u32u32
+                0x0000000010003754                divmod_u32u32_unsafe
+                0x000000001000377c                divmod_u32u32_savestate
  .text.__wrap___aeabi_ldiv
-                0x00000000100036a4      0x424 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
-                0x00000000100036a4                div_s64s64
-                0x00000000100036a4                divmod_s64s64
-                0x00000000100036a4                __wrap___aeabi_ldivmod
-                0x00000000100036d4                div_u64u64
-                0x00000000100036d4                divmod_u64u64
-                0x00000000100036d4                __wrap___aeabi_uldivmod
-                0x00000000100036e4                divmod_u64u64_savestate
-                0x0000000010003704                divmod_s64s64_unsafe
-                0x000000001000378c                divmod_u64u64_unsafe
+                0x0000000010003798      0x424 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
+                0x0000000010003798                div_s64s64
+                0x0000000010003798                divmod_s64s64
+                0x0000000010003798                __wrap___aeabi_ldivmod
+                0x00000000100037c8                div_u64u64
+                0x00000000100037c8                divmod_u64u64
+                0x00000000100037c8                __wrap___aeabi_uldivmod
+                0x00000000100037d8                divmod_u64u64_savestate
+                0x00000000100037f8                divmod_s64s64_unsafe
+                0x0000000010003880                divmod_u64u64_unsafe
+ .text.push_r8_r11
+                0x0000000010003bbc        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000010003bbc                push_r8_r11
+ .text.pop_r8_r11
+                0x0000000010003bc8        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000010003bc8                pop_r8_r11
  .text.__wrap___aeabi_darithmetic
-                0x0000000010003ac8       0x80 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x0000000010003ac8                __wrap___aeabi_drsub
-                0x0000000010003ace                __wrap___aeabi_dsub
-                0x0000000010003ae0                __wrap___aeabi_dadd
-                0x0000000010003af2                __wrap___aeabi_ddiv
-                0x0000000010003b2e                __wrap___aeabi_dmul
+                0x0000000010003bd4       0x80 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000010003bd4                __wrap___aeabi_drsub
+                0x0000000010003bda                __wrap___aeabi_dsub
+                0x0000000010003bec                __wrap___aeabi_dadd
+                0x0000000010003bfe                __wrap___aeabi_ddiv
+                0x0000000010003c3a                __wrap___aeabi_dmul
  .text.__wrap___aeabi_cdcmple
-                0x0000000010003b48       0x6c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x0000000010003b48                __wrap___aeabi_cdrcmple
-                0x0000000010003b58                __wrap___aeabi_cdcmple
-                0x0000000010003b58                __wrap___aeabi_cdcmpeq
+                0x0000000010003c54       0x6c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000010003c54                __wrap___aeabi_cdrcmple
+                0x0000000010003c64                __wrap___aeabi_cdcmple
+                0x0000000010003c64                __wrap___aeabi_cdcmpeq
  .text.__wrap___aeabi_dcmplt
-                0x0000000010003bb4        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x0000000010003bb4                __wrap___aeabi_dcmplt
+                0x0000000010003cc0        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000010003cc0                __wrap___aeabi_dcmplt
  .text.__wrap___aeabi_dcmple
-                0x0000000010003bc0       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x0000000010003bc0                __wrap___aeabi_dcmple
+                0x0000000010003ccc       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000010003ccc                __wrap___aeabi_dcmple
  .text.__wrap___aeabi_dcmpge
-                0x0000000010003bd0       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x0000000010003bd0                __wrap___aeabi_dcmpge
+                0x0000000010003cdc       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000010003cdc                __wrap___aeabi_dcmpge
  .text.__wrap___aeabi_dcmpgt
-                0x0000000010003be0        0xa CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x0000000010003be0                __wrap___aeabi_dcmpgt
+                0x0000000010003cec        0xa CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000010003cec                __wrap___aeabi_dcmpgt
  .text.__wrap___aeabi_dcmpun
-                0x0000000010003bea       0x1c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x0000000010003bea                __wrap___aeabi_dcmpun
- *fill*         0x0000000010003c06        0x2 
+                0x0000000010003cf6       0x1c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000010003cf6                __wrap___aeabi_dcmpun
+ *fill*         0x0000000010003d12        0x2 
  .text.__wrap___aeabi_i2d
-                0x0000000010003c08       0x38 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x0000000010003c08                __wrap___aeabi_ui2d
-                0x0000000010003c10                __wrap___aeabi_i2d
+                0x0000000010003d14       0x38 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000010003d14                __wrap___aeabi_ui2d
+                0x0000000010003d1c                __wrap___aeabi_i2d
  .text.__wrap___aeabi_d2iz
-                0x0000000010003c40       0x48 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x0000000010003c40                __wrap___aeabi_d2iz
-                0x0000000010003c40                double2int_z
+                0x0000000010003d4c       0x48 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000010003d4c                __wrap___aeabi_d2iz
+                0x0000000010003d4c                double2int_z
  .text.__wrap___aeabi_d2uiz
-                0x0000000010003c88       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x0000000010003c88                double2uint
-                0x0000000010003c88                __wrap___aeabi_d2uiz
+                0x0000000010003d94       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000010003d94                double2uint
+                0x0000000010003d94                __wrap___aeabi_d2uiz
+ .text.__wrap___aeabi_d2f
+                0x0000000010003dac       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000010003dac                __wrap___aeabi_d2f
+ .text.__wrap_srqt
+                0x0000000010003dc4       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000010003dc4                __wrap_sqrt
+ .text.__wrap_atan2
+                0x0000000010003ddc       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000010003ddc                __wrap_atan2
  .text.__aeabi_double_init
-                0x0000000010003ca0       0x94 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
-                0x0000000010003ca0                __aeabi_double_init
+                0x0000000010003df4       0x94 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
+                0x0000000010003df4                __aeabi_double_init
  .text.double_table_shim_on_use_helper
-                0x0000000010003d34       0x2c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x0000000010003d34                double_table_shim_on_use_helper
+                0x0000000010003e88       0x2c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010003e88                double_table_shim_on_use_helper
  .text.__wrap___aeabi_dsub
-                0x0000000010003d60       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x0000000010003d60                drsub_shim
-                0x0000000010003d66                dsub_shim
+                0x0000000010003eb4       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010003eb4                drsub_shim
+                0x0000000010003eba                dsub_shim
  .text.dadd_shim
-                0x0000000010003d70      0x15c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x0000000010003d70                dadd_shim
+                0x0000000010003ec4      0x15c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010003ec4                dadd_shim
  .text.dmul_shim
-                0x0000000010003ecc      0x15c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x0000000010003ecc                dmul_shim
+                0x0000000010004020      0x15c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010004020                dmul_shim
  .text.ddiv_shim
-                0x0000000010004028      0x1b0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x0000000010004028                ddiv_shim
+                0x000000001000417c      0x1b0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x000000001000417c                ddiv_shim
+ .text.dsqrt_shim
+                0x000000001000432c      0x1a8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010004348                dsqrt_shim
+ .text.dcordic_vec_step
+                0x00000000100044d4        0xe CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x00000000100044d4                dcordic_vec_step
+ .text.dcordic_rot_step
+                0x00000000100044e2       0x76 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x00000000100044e2                dcordic_rot_step
  .text.double2uint_shim
-                0x00000000100041d8        0xe CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x00000000100041d8                double2uint_shim
-                0x00000000100041da                double2ufix_shim
- *fill*         0x00000000100041e6        0x2 
+                0x0000000010004558        0xe CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010004558                double2uint_shim
+                0x000000001000455a                double2ufix_shim
+ .text.double2int64_shim
+                0x0000000010004566       0x1a CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010004566                double2int64_shim
+                0x0000000010004568                double2fix64_shim
  .text.double2uint64_shim
-                0x00000000100041e8       0x70 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x00000000100041e8                double2uint64_shim
-                0x00000000100041ea                double2ufix64_shim
-                0x000000001000420a                d2fix_a
+                0x0000000010004580       0x70 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010004580                double2uint64_shim
+                0x0000000010004582                double2ufix64_shim
+                0x00000000100045a2                d2fix_a
+ .text.double2float_shim
+                0x00000000100045f0       0x5c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x00000000100045f0                double2float_shim
+ .text.x2double_shims
+                0x000000001000464c       0x90 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x000000001000464c                uint2double_shim
+                0x000000001000464e                ufix2double_shim
+                0x0000000010004654                int2double_shim
+                0x0000000010004656                fix2double_shim
+                0x000000001000465c                uint642double_shim
+                0x000000001000465e                ufix642double_shim
+                0x0000000010004664                int642double_shim
+                0x0000000010004666                fix642double_shim
  .text.dunpacks
-                0x0000000010004258       0x3c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x0000000010004258                dunpacks
+                0x00000000100046dc       0x3c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x00000000100046dc                dunpacks
+ .text.dreduce  0x0000000010004718       0x82 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010004718                dreduce
+ *fill*         0x000000001000479a        0x2 
+ .text.dtrig_guts
+                0x000000001000479c      0x2ec CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010004874                datan2_shim
  .text.__aeabi_lmul
-                0x0000000010004294       0x32 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
-                0x0000000010004294                __wrap___aeabi_lmul
- *fill*         0x00000000100042c6        0x2 
+                0x0000000010004a88       0x32 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
+                0x0000000010004a88                __wrap___aeabi_lmul
+ *fill*         0x0000000010004aba        0x2 
  .text.__wrap___aeabi_farithmetic
-                0x00000000100042c8       0x48 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
-                0x00000000100042c8                __wrap___aeabi_frsub
-                0x00000000100042ce                __wrap___aeabi_fsub
-                0x00000000100042d4                __wrap___aeabi_fadd
-                0x00000000100042da                __wrap___aeabi_fdiv
-                0x0000000010004302                __wrap___aeabi_fmul
+                0x0000000010004abc       0x48 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
+                0x0000000010004abc                __wrap___aeabi_frsub
+                0x0000000010004ac2                __wrap___aeabi_fsub
+                0x0000000010004ac8                __wrap___aeabi_fadd
+                0x0000000010004ace                __wrap___aeabi_fdiv
+                0x0000000010004af6                __wrap___aeabi_fmul
  .text.__wrap___aeabi_i2f
-                0x0000000010004310       0x44 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
-                0x0000000010004310                __wrap___aeabi_i2f
+                0x0000000010004b04       0x44 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
+                0x0000000010004b04                __wrap___aeabi_i2f
  .text.__wrap___aeabi_f2d
-                0x0000000010004354       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
-                0x0000000010004354                __wrap___aeabi_f2d
+                0x0000000010004b48       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
+                0x0000000010004b48                __wrap___aeabi_f2d
  .text.__aeabi_float_init
-                0x0000000010004368       0x64 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
-                0x0000000010004368                __aeabi_float_init
+                0x0000000010004b5c       0x64 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
+                0x0000000010004b5c                __aeabi_float_init
  .text.float_table_shim_on_use_helper
-                0x00000000100043cc       0x2c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj
-                0x00000000100043cc                float_table_shim_on_use_helper
+                0x0000000010004bc0       0x2c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj
+                0x0000000010004bc0                float_table_shim_on_use_helper
  .text.float2double_shim
-                0x00000000100043f8       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj
-                0x00000000100043f8                float2double_shim
- .text          0x0000000010004428       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
-                0x0000000010004428                __aeabi_mem_init
- .text.memset   0x0000000010004438        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
-                0x0000000010004438                __wrap_memset
- .text.memcpy   0x0000000010004444        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
-                0x0000000010004444                __wrap___aeabi_memcpy
-                0x0000000010004444                __wrap_memcpy
+                0x0000000010004bec       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj
+                0x0000000010004bec                float2double_shim
+ .text          0x0000000010004c1c       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+                0x0000000010004c1c                __aeabi_mem_init
+ .text.memset   0x0000000010004c2c        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+                0x0000000010004c2c                __wrap_memset
+ .text.memcpy   0x0000000010004c38        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+                0x0000000010004c38                __wrap___aeabi_memcpy
+                0x0000000010004c38                __wrap_memcpy
  .text.stdio_out_chars_no_crlf
-                0x0000000010004450       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000010004c44       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .text.stdio_out_chars_crlf
-                0x0000000010004460       0xb4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000010004c54       0xb4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .text.stdio_buffered_printer
-                0x0000000010004514       0x64 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000010004d08       0x64 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .text.stdio_put_string.isra.0
-                0x0000000010004578       0xfc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000010004d6c       0xfc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .text.__wrap_putchar
-                0x0000000010004674       0x98 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x0000000010004674                __wrap_putchar
+                0x0000000010004e68       0x98 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000010004e68                __wrap_putchar
  .text.__wrap_puts
-                0x000000001000470c       0x3c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x000000001000470c                __wrap_puts
+                0x0000000010004f00       0x3c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000010004f00                __wrap_puts
  .text.stdio_set_driver_enabled
-                0x0000000010004748       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x0000000010004748                stdio_set_driver_enabled
+                0x0000000010004f3c       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000010004f3c                stdio_set_driver_enabled
  .text.__wrap_vprintf
-                0x0000000010004778       0xd8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x0000000010004778                __wrap_vprintf
+                0x0000000010004f6c       0xd8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000010004f6c                __wrap_vprintf
  .text.__wrap_printf
-                0x0000000010004850       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x0000000010004850                __wrap_printf
+                0x0000000010005044       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000010005044                __wrap_printf
  .text.stdio_init_all
-                0x0000000010004868        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x0000000010004868                stdio_init_all
+                0x000000001000505c        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x000000001000505c                stdio_init_all
  .text.resetd_init
-                0x0000000010004870        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x0000000010005064        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .text.resetd_reset
-                0x0000000010004874        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x0000000010005068        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .text.resetd_open
-                0x0000000010004880       0x28 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x0000000010005074       0x28 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .text.resetd_xfer_cb
-                0x00000000100048a8        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x000000001000509c        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .text.resetd_control_xfer_cb
-                0x00000000100048ac       0x64 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x00000000100050a0       0x64 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .text.usbd_app_driver_get_cb
-                0x0000000010004910        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
-                0x0000000010004910                usbd_app_driver_get_cb
+                0x0000000010005104        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x0000000010005104                usbd_app_driver_get_cb
  .text.tud_cdc_line_coding_cb
-                0x000000001000491c       0x34 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
-                0x000000001000491c                tud_cdc_line_coding_cb
+                0x0000000010005110       0x34 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x0000000010005110                tud_cdc_line_coding_cb
  .text.stdio_usb_set_chars_available_callback
-                0x0000000010004950       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
-                0x0000000010004950                stdio_usb_set_chars_available_callback
- .text.usb_irq  0x0000000010004964       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x0000000010005144       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x0000000010005144                stdio_usb_set_chars_available_callback
+ .text.usb_irq  0x0000000010005158       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .text.timer_task
-                0x0000000010004974       0x54 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x0000000010005168       0x54 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .text.stdio_usb_in_chars
-                0x00000000100049c8       0x90 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
-                0x00000000100049c8                stdio_usb_in_chars
+                0x00000000100051bc       0x90 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x00000000100051bc                stdio_usb_in_chars
  .text.stdio_usb_out_chars
-                0x0000000010004a58      0x100 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x000000001000524c      0x100 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .text.low_priority_worker_irq
-                0x0000000010004b58       0xa8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x000000001000534c       0xa8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .text.tud_cdc_rx_cb
-                0x0000000010004c00       0x20 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
-                0x0000000010004c00                tud_cdc_rx_cb
+                0x00000000100053f4       0x20 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x00000000100053f4                tud_cdc_rx_cb
  .text.stdio_usb_init
-                0x0000000010004c20       0xdc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
-                0x0000000010004c20                stdio_usb_init
+                0x0000000010005414       0xdc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x0000000010005414                stdio_usb_init
  .text.tud_descriptor_device_cb
-                0x0000000010004cfc        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
-                0x0000000010004cfc                tud_descriptor_device_cb
+                0x00000000100054f0        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+                0x00000000100054f0                tud_descriptor_device_cb
  .text.tud_descriptor_configuration_cb
-                0x0000000010004d04        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
-                0x0000000010004d04                tud_descriptor_configuration_cb
+                0x00000000100054f8        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+                0x00000000100054f8                tud_descriptor_configuration_cb
  .text.tud_descriptor_string_cb
-                0x0000000010004d0c       0x74 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
-                0x0000000010004d0c                tud_descriptor_string_cb
+                0x0000000010005500       0x74 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+                0x0000000010005500                tud_descriptor_string_cb
  .text.startup._retrieve_unique_id_on_boot
-                0x0000000010004d80       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
+                0x0000000010005574       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
  .text.pico_get_unique_board_id_string
-                0x0000000010004d90      0x1a8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
-                0x0000000010004d90                pico_get_unique_board_id_string
+                0x0000000010005584      0x1a8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
+                0x0000000010005584                pico_get_unique_board_id_string
  .text.flash_get_unique_id
-                0x0000000010004f38       0x40 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
-                0x0000000010004f38                flash_get_unique_id
+                0x000000001000572c       0x40 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
+                0x000000001000572c                flash_get_unique_id
  .text.dcd_int_enable
-                0x0000000010004f78        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x0000000010004f78                dcd_int_enable
+                0x000000001000576c        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x000000001000576c                dcd_int_enable
  .text.dcd_set_address
-                0x0000000010004f84       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x0000000010004f84                dcd_set_address
+                0x0000000010005778       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x0000000010005778                dcd_set_address
  .text.dcd_connect
-                0x0000000010004f98       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x0000000010004f98                dcd_connect
+                0x000000001000578c       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x000000001000578c                dcd_connect
  .text.dcd_init
-                0x0000000010004fa8       0x98 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x0000000010004fa8                dcd_init
+                0x000000001000579c       0x98 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x000000001000579c                dcd_init
  .text.dcd_edpt0_status_complete
-                0x0000000010005040       0x1c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x0000000010005040                dcd_edpt0_status_complete
+                0x0000000010005834       0x1c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x0000000010005834                dcd_edpt0_status_complete
  .text.dcd_edpt_open
-                0x000000001000505c      0x108 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x000000001000505c                dcd_edpt_open
+                0x0000000010005850      0x108 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x0000000010005850                dcd_edpt_open
  .text.dcd_edpt_close_all
-                0x0000000010005164        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x0000000010005164                dcd_edpt_close_all
+                0x0000000010005958        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x0000000010005958                dcd_edpt_close_all
  .text.dcd_edpt_xfer
-                0x000000001000516c       0x24 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x000000001000516c                dcd_edpt_xfer
+                0x0000000010005960       0x24 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x0000000010005960                dcd_edpt_xfer
  .text.dcd_edpt_stall
-                0x0000000010005190       0x38 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x0000000010005190                dcd_edpt_stall
+                0x0000000010005984       0x38 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x0000000010005984                dcd_edpt_stall
  .text.dcd_edpt_clear_stall
-                0x00000000100051c8       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x00000000100051c8                dcd_edpt_clear_stall
+                0x00000000100059bc       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x00000000100059bc                dcd_edpt_clear_stall
  .text.rp2040_usb_init
-                0x00000000100051f8       0x4c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
-                0x00000000100051f8                rp2040_usb_init
+                0x00000000100059ec       0x4c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+                0x00000000100059ec                rp2040_usb_init
  .text.hw_endpoint_xfer_start
-                0x0000000010005244       0x50 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
-                0x0000000010005244                hw_endpoint_xfer_start
+                0x0000000010005a38       0x50 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+                0x0000000010005a38                hw_endpoint_xfer_start
  .text.tud_mounted
-                0x0000000010005294       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x0000000010005294                tud_mounted
+                0x0000000010005a88       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x0000000010005a88                tud_mounted
  .text.tud_suspended
-                0x00000000100052a4       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x00000000100052a4                tud_suspended
+                0x0000000010005a98       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x0000000010005a98                tud_suspended
  .text.tud_inited
-                0x00000000100052b4       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x00000000100052b4                tud_inited
+                0x0000000010005aa8       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x0000000010005aa8                tud_inited
  .text.tud_init
-                0x00000000100052c8       0xe4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x00000000100052c8                tud_init
+                0x0000000010005abc       0xe4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x0000000010005abc                tud_init
  .text.tud_task_ext
-                0x00000000100053ac      0x854 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x00000000100053ac                tud_task_ext
+                0x0000000010005ba0      0x854 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x0000000010005ba0                tud_task_ext
  .text.usbd_open_edpt_pair
-                0x0000000010005c00       0x9c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x0000000010005c00                usbd_open_edpt_pair
+                0x00000000100063f4       0x9c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x00000000100063f4                usbd_open_edpt_pair
  .text.usbd_defer_func
-                0x0000000010005c9c       0x48 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x0000000010005c9c                usbd_defer_func
+                0x0000000010006490       0x48 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x0000000010006490                usbd_defer_func
  .text.usbd_edpt_open
-                0x0000000010005ce4       0x34 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x0000000010005ce4                usbd_edpt_open
+                0x00000000100064d8       0x34 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x00000000100064d8                usbd_edpt_open
  .text.usbd_edpt_claim
-                0x0000000010005d18       0x28 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x0000000010005d18                usbd_edpt_claim
+                0x000000001000650c       0x28 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x000000001000650c                usbd_edpt_claim
  .text.usbd_edpt_release
-                0x0000000010005d40       0x28 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x0000000010005d40                usbd_edpt_release
+                0x0000000010006534       0x28 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x0000000010006534                usbd_edpt_release
  .text.usbd_edpt_xfer
-                0x0000000010005d68       0x4c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x0000000010005d68                usbd_edpt_xfer
+                0x000000001000655c       0x4c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x000000001000655c                usbd_edpt_xfer
  .text.tud_control_status
-                0x0000000010005db4       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
-                0x0000000010005db4                tud_control_status
+                0x00000000100065a8       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+                0x00000000100065a8                tud_control_status
  .text.tud_control_xfer
-                0x0000000010005de4       0xbc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
-                0x0000000010005de4                tud_control_xfer
+                0x00000000100065d8       0xbc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+                0x00000000100065d8                tud_control_xfer
  .text.usbd_control_reset
-                0x0000000010005ea0       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
-                0x0000000010005ea0                usbd_control_reset
+                0x0000000010006694       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+                0x0000000010006694                usbd_control_reset
  .text.usbd_control_set_complete_callback
-                0x0000000010005eb4        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
-                0x0000000010005eb4                usbd_control_set_complete_callback
+                0x00000000100066a8        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+                0x00000000100066a8                usbd_control_set_complete_callback
  .text.usbd_control_set_request
-                0x0000000010005ec0       0x1c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
-                0x0000000010005ec0                usbd_control_set_request
+                0x00000000100066b4       0x1c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+                0x00000000100066b4                usbd_control_set_request
  .text.usbd_control_xfer_cb
-                0x0000000010005edc       0xfc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
-                0x0000000010005edc                usbd_control_xfer_cb
+                0x00000000100066d0       0xfc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+                0x00000000100066d0                usbd_control_xfer_cb
  .text.tud_cdc_n_connected
-                0x0000000010005fd8       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x0000000010005fd8                tud_cdc_n_connected
+                0x00000000100067cc       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x00000000100067cc                tud_cdc_n_connected
  .text.tud_cdc_n_available
-                0x0000000010006008       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x0000000010006008                tud_cdc_n_available
+                0x00000000100067fc       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x00000000100067fc                tud_cdc_n_available
  .text.tud_cdc_n_read
-                0x0000000010006020       0x70 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x0000000010006020                tud_cdc_n_read
+                0x0000000010006814       0x70 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x0000000010006814                tud_cdc_n_read
  .text.tud_cdc_n_write_flush
-                0x0000000010006090       0x78 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x0000000010006090                tud_cdc_n_write_flush
+                0x0000000010006884       0x78 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x0000000010006884                tud_cdc_n_write_flush
  .text.tud_cdc_n_write
-                0x0000000010006108       0x34 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x0000000010006108                tud_cdc_n_write
+                0x00000000100068fc       0x34 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x00000000100068fc                tud_cdc_n_write
  .text.tud_cdc_n_write_available
-                0x000000001000613c       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x000000001000613c                tud_cdc_n_write_available
+                0x0000000010006930       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x0000000010006930                tud_cdc_n_write_available
  .text.cdcd_init
-                0x0000000010006154       0x7c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x0000000010006154                cdcd_init
+                0x0000000010006948       0x7c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x0000000010006948                cdcd_init
  .text.cdcd_reset
-                0x00000000100061d0       0x2c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x00000000100061d0                cdcd_reset
+                0x00000000100069c4       0x2c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x00000000100069c4                cdcd_reset
  .text.cdcd_open
-                0x00000000100061fc       0xe8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x00000000100061fc                cdcd_open
+                0x00000000100069f0       0xe8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x00000000100069f0                cdcd_open
  .text.cdcd_control_xfer_cb
-                0x00000000100062e4       0xe4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x00000000100062e4                cdcd_control_xfer_cb
+                0x0000000010006ad8       0xe4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x0000000010006ad8                cdcd_control_xfer_cb
  .text.cdcd_xfer_cb
-                0x00000000100063c8      0x148 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x00000000100063c8                cdcd_xfer_cb
+                0x0000000010006bbc      0x148 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x0000000010006bbc                cdcd_xfer_cb
  .text.tusb_init
-                0x0000000010006510        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/tusb.c.obj
-                0x0000000010006510                tusb_init
+                0x0000000010006d04        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/tusb.c.obj
+                0x0000000010006d04                tusb_init
  .text.tusb_inited
-                0x000000001000651c        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/tusb.c.obj
-                0x000000001000651c                tusb_inited
+                0x0000000010006d10        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/tusb.c.obj
+                0x0000000010006d10                tusb_inited
  .text.tu_edpt_claim
-                0x0000000010006524       0x50 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/tusb.c.obj
-                0x0000000010006524                tu_edpt_claim
+                0x0000000010006d18       0x50 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/tusb.c.obj
+                0x0000000010006d18                tu_edpt_claim
  .text.tu_edpt_release
-                0x0000000010006574       0x38 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/tusb.c.obj
-                0x0000000010006574                tu_edpt_release
+                0x0000000010006d68       0x38 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/tusb.c.obj
+                0x0000000010006d68                tu_edpt_release
  .text.tu_edpt_validate
-                0x00000000100065ac       0x78 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/tusb.c.obj
-                0x00000000100065ac                tu_edpt_validate
+                0x0000000010006da0       0x78 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/tusb.c.obj
+                0x0000000010006da0                tu_edpt_validate
  .text.tu_edpt_bind_driver
-                0x0000000010006624       0x34 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/tusb.c.obj
-                0x0000000010006624                tu_edpt_bind_driver
+                0x0000000010006e18       0x34 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/tusb.c.obj
+                0x0000000010006e18                tu_edpt_bind_driver
  .text.tu_fifo_config
-                0x0000000010006658       0x70 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x0000000010006658                tu_fifo_config
+                0x0000000010006e4c       0x70 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x0000000010006e4c                tu_fifo_config
  .text.tu_fifo_count
-                0x00000000100066c8       0x2c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x00000000100066c8                tu_fifo_count
+                0x0000000010006ebc       0x2c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x0000000010006ebc                tu_fifo_count
  .text.tu_fifo_empty
-                0x00000000100066f4       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x00000000100066f4                tu_fifo_empty
+                0x0000000010006ee8       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x0000000010006ee8                tu_fifo_empty
  .text.tu_fifo_remaining
-                0x0000000010006704       0x2c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x0000000010006704                tu_fifo_remaining
+                0x0000000010006ef8       0x2c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x0000000010006ef8                tu_fifo_remaining
  .text.tu_fifo_read
-                0x0000000010006730       0xa0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x0000000010006730                tu_fifo_read
+                0x0000000010006f24       0xa0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x0000000010006f24                tu_fifo_read
  .text.tu_fifo_read_n
-                0x00000000100067d0       0xec CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x00000000100067d0                tu_fifo_read_n
+                0x0000000010006fc4       0xec CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x0000000010006fc4                tu_fifo_read_n
  .text.tu_fifo_write
-                0x00000000100068bc       0x88 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x00000000100068bc                tu_fifo_write
+                0x00000000100070b0       0x88 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x00000000100070b0                tu_fifo_write
  .text.tu_fifo_write_n
-                0x0000000010006944      0x168 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x0000000010006944                tu_fifo_write_n
+                0x0000000010007138      0x168 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x0000000010007138                tu_fifo_write_n
  .text.tu_fifo_clear
-                0x0000000010006aac       0x40 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x0000000010006aac                tu_fifo_clear
+                0x00000000100072a0       0x40 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x00000000100072a0                tu_fifo_clear
  .text.tu_fifo_set_overwritable
-                0x0000000010006aec       0x48 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x0000000010006aec                tu_fifo_set_overwritable
+                0x00000000100072e0       0x48 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x00000000100072e0                tu_fifo_set_overwritable
  .text.i2c_set_baudrate
-                0x0000000010006b34       0xc4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
-                0x0000000010006b34                i2c_set_baudrate
+                0x0000000010007328       0xc4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
+                0x0000000010007328                i2c_set_baudrate
  .text.i2c_init
-                0x0000000010006bf8       0x54 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
-                0x0000000010006bf8                i2c_init
+                0x00000000100073ec       0x54 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
+                0x00000000100073ec                i2c_init
  .text.i2c_write_blocking
-                0x0000000010006c4c       0xd0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
-                0x0000000010006c4c                i2c_write_blocking
+                0x0000000010007440       0xd0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
+                0x0000000010007440                i2c_write_blocking
  .text.i2c_read_blocking
-                0x0000000010006d1c       0xac CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
-                0x0000000010006d1c                i2c_read_blocking
- .text          0x0000000010006dc8       0x5c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-strlen-stub.o)
-                0x0000000010006dc8                strlen
+                0x0000000010007510       0xac CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
+                0x0000000010007510                i2c_read_blocking
+ .text          0x00000000100075bc       0x5c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-strlen-stub.o)
+                0x00000000100075bc                strlen
  *(.fini)
- .fini          0x0000000010006e24        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
-                0x0000000010006e24                _fini
- .fini.__stub   0x0000000010006e28       0xd0 linker stubs
+ .fini          0x0000000010007618        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x0000000010007618                _fini
+ *fill*         0x000000001000761c        0x4 
+ .fini.__stub   0x0000000010007620       0xd0 linker stubs
  *crtbegin.o(.ctors)
  *crtbegin?.o(.ctors)
  *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
@@ -2104,126 +2127,126 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nof
  *(SORT_BY_NAME(.dtors.*))
  *(.dtors)
  *(.eh_frame*)
- .eh_frame      0x0000000010006ef8        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
-                0x0000000010006ef8                . = ALIGN (0x4)
+ .eh_frame      0x00000000100076f0        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x00000000100076f0                . = ALIGN (0x4)
 
-.glue_7         0x0000000010006ef8        0x0
- .glue_7        0x0000000010006ef8        0x0 linker stubs
+.glue_7         0x00000000100076f0        0x0
+ .glue_7        0x00000000100076f0        0x0 linker stubs
 
-.glue_7t        0x0000000010006ef8        0x0
- .glue_7t       0x0000000010006ef8        0x0 linker stubs
+.glue_7t        0x00000000100076f0        0x0
+ .glue_7t       0x00000000100076f0        0x0 linker stubs
 
-.vfp11_veneer   0x0000000010006ef8        0x0
- .vfp11_veneer  0x0000000010006ef8        0x0 linker stubs
+.vfp11_veneer   0x00000000100076f0        0x0
+ .vfp11_veneer  0x00000000100076f0        0x0 linker stubs
 
-.v4_bx          0x0000000010006ef8        0x0
- .v4_bx         0x0000000010006ef8        0x0 linker stubs
+.v4_bx          0x00000000100076f0        0x0
+ .v4_bx         0x00000000100076f0        0x0 linker stubs
 
-.iplt           0x0000000010006ef8        0x0
- .iplt          0x0000000010006ef8        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+.iplt           0x00000000100076f0        0x0
+ .iplt          0x00000000100076f0        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
 
-.rodata         0x0000000010006ef8      0x554
+.rodata         0x00000000100076f0      0x524
  *(EXCLUDE_FILE(*libm.a: *libc.a:*lib_a-mem*.o *libgcc.a:) .rodata*)
  .rodata.main.str1.4
-                0x0000000010006ef8       0x35 CMakeFiles/mpu6050.dir/src/main.c.obj
- *fill*         0x0000000010006f2d        0x3 
+                0x00000000100076f0        0xa CMakeFiles/mpu6050.dir/src/main.c.obj
+ *fill*         0x00000000100076fa        0x2 
  .rodata.spin_lock_claim_unused.str1.4
-                0x0000000010006f30       0x1b CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
- *fill*         0x0000000010006f4b        0x1 
+                0x00000000100076fc       0x1b CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+ *fill*         0x0000000010007717        0x1 
  .rodata.user_irq_claim_unused.str1.4
-                0x0000000010006f4c       0x1b CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- *fill*         0x0000000010006f67        0x1 
+                0x0000000010007718       0x1b CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+ *fill*         0x0000000010007733        0x1 
  .rodata.hardware_alarm_claim.str1.4
-                0x0000000010006f68       0x22 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
- *fill*         0x0000000010006f8a        0x2 
+                0x0000000010007734       0x22 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+ *fill*         0x0000000010007756        0x2 
  .rodata.panic.str1.4
-                0x0000000010006f8c       0x12 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
- *fill*         0x0000000010006f9e        0x2 
+                0x0000000010007758       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                                         0x12 (size before relaxing)
  .rodata.hard_assertion_failure.str1.4
-                0x0000000010006fa0        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x0000000010007768        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
  .rodata._ftoa.str1.4
-                0x0000000010006fac       0x15 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
- *fill*         0x0000000010006fc1        0x3 
+                0x0000000010007774       0x15 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+ *fill*         0x0000000010007789        0x3 
  .rodata._vsnprintf
-                0x0000000010006fc4      0x1e0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
- *fill*         0x00000000100071a4        0x4 
+                0x000000001000778c      0x1e0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+ *fill*         0x000000001000796c        0x4 
  .rodata.pow10.0
-                0x00000000100071a8       0x50 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x0000000010007970       0x50 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .rodata.str1.4
-                0x00000000100071f8       0x3c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x00000000100079c0       0x3c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .rodata.__bi_44
-                0x0000000010007234        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x00000000100079fc        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .rodata.__bi_75
-                0x0000000010007240        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x0000000010007a08        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .rodata.__bi_81
-                0x000000001000724c        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x0000000010007a14        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .rodata.crlf_str.0
-                0x0000000010007258        0x2 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
- *fill*         0x000000001000725a        0x2 
+                0x0000000010007a20        0x2 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+ *fill*         0x0000000010007a22        0x2 
  .rodata._resetd_driver
-                0x000000001000725c       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x0000000010007a24       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .rodata.str1.4
-                0x0000000010007274       0x13 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
- *fill*         0x0000000010007287        0x1 
+                0x0000000010007a3c       0x13 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+ *fill*         0x0000000010007a4f        0x1 
  .rodata.__bi_182.0
-                0x0000000010007288        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x0000000010007a50        0xc CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .rodata.str1.4
-                0x0000000010007294       0x2a CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
- *fill*         0x00000000100072be        0x2 
+                0x0000000010007a5c       0x2a CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+ *fill*         0x0000000010007a86        0x2 
  .rodata.usbd_desc_cfg
-                0x00000000100072c0       0x54 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+                0x0000000010007a88       0x54 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
  .rodata.usbd_desc_device
-                0x0000000010007314       0x12 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
- *fill*         0x0000000010007326        0x2 
+                0x0000000010007adc       0x12 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+ *fill*         0x0000000010007aee        0x2 
  .rodata.usbd_desc_str
-                0x0000000010007328       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+                0x0000000010007af0       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
  .rodata.str1.4
-                0x0000000010007340       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x0000000010007b08       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
  .rodata.str1.4
-                0x0000000010007354       0x53 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
- *fill*         0x00000000100073a7        0x1 
+                0x0000000010007b1c       0x53 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+ *fill*         0x0000000010007b6f        0x1 
  .rodata.tud_task_ext
-                0x00000000100073a8       0x8c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x0000000010007b70       0x8c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
  .rodata._usbd_driver
-                0x0000000010007434       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x000000001000744c                . = ALIGN (0x4)
+                0x0000000010007bfc       0x18 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x0000000010007c14                . = ALIGN (0x4)
  *(SORT_BY_ALIGNMENT(SORT_BY_NAME(.flashdata*)))
-                0x000000001000744c                . = ALIGN (0x4)
+                0x0000000010007c14                . = ALIGN (0x4)
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x000000001000744c                __exidx_start = .
+                0x0000000010007c14                __exidx_start = .
 
 .ARM.exidx
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
-                0x000000001000744c                __exidx_end = .
-                0x000000001000744c                . = ALIGN (0x4)
-                0x000000001000744c                __binary_info_start = .
+                0x0000000010007c14                __exidx_end = .
+                0x0000000010007c14                . = ALIGN (0x4)
+                0x0000000010007c14                __binary_info_start = .
 
-.binary_info    0x000000001000744c       0x20
+.binary_info    0x0000000010007c14       0x20
  *(.binary_info.keep.*)
  .binary_info.keep.__bi_ptr22
-                0x000000001000744c        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x0000000010007c14        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr30
-                0x0000000010007450        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x0000000010007c18        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr38
-                0x0000000010007454        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x0000000010007c1c        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr44
-                0x0000000010007458        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x0000000010007c20        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr50
-                0x000000001000745c        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x0000000010007c24        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr75
-                0x0000000010007460        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x0000000010007c28        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr81
-                0x0000000010007464        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x0000000010007c2c        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  *(.binary_info.*)
  .binary_info.__bi_ptr182
-                0x0000000010007468        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
-                0x000000001000746c                __binary_info_end = .
+                0x0000000010007c30        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x0000000010007c34                __binary_info_end = .
 
-.rel.dyn        0x000000001000746c        0x0
- .rel.iplt      0x000000001000746c        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
-                0x000000001000746c                . = ALIGN (0x4)
+.rel.dyn        0x0000000010007c34        0x0
+ .rel.iplt      0x0000000010007c34        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x0000000010007c34                . = ALIGN (0x4)
 
 .ram_vector_table
                 0x0000000020000000       0xc0
@@ -2232,7 +2255,7 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nof
                 0x0000000020000000       0xc0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
                 0x0000000020000000                ram_vector_table
 
-.data           0x00000000200000c0      0xe58 load address 0x000000001000746c
+.data           0x00000000200000c0      0xe60 load address 0x0000000010007c34
                 0x00000000200000c0                __data_start__ = .
  *(vtable)
  *(.time_critical*)
@@ -2333,180 +2356,183 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nof
  .data.i2c0_inst
                 0x0000000020000ef0        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
                 0x0000000020000ef0                i2c0_inst
-                0x0000000020000ef8                . = ALIGN (0x4)
+ .data.i2c1_inst
+                0x0000000020000ef8        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
+                0x0000000020000ef8                i2c1_inst
+                0x0000000020000f00                . = ALIGN (0x4)
  *(.after_data.*)
-                0x0000000020000ef8                . = ALIGN (0x4)
-                0x0000000020000ef8                PROVIDE (__mutex_array_start = .)
+                0x0000000020000f00                . = ALIGN (0x4)
+                0x0000000020000f00                PROVIDE (__mutex_array_start = .)
  *(SORT_BY_NAME(.mutex_array.*))
  *(.mutex_array)
- .mutex_array   0x0000000020000ef8        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x0000000020000f00                PROVIDE (__mutex_array_end = .)
-                0x0000000020000f00                . = ALIGN (0x4)
-                0x0000000020000f00                PROVIDE (__preinit_array_start = .)
+ .mutex_array   0x0000000020000f00        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000020000f08                PROVIDE (__mutex_array_end = .)
+                0x0000000020000f08                . = ALIGN (0x4)
+                0x0000000020000f08                PROVIDE (__preinit_array_start = .)
  *(SORT_BY_NAME(.preinit_array.*))
  .preinit_array.00001
-                0x0000000020000f00        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+                0x0000000020000f08        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
  .preinit_array.00010
-                0x0000000020000f04        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
+                0x0000000020000f0c        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
  .preinit_array.00020
-                0x0000000020000f08        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000020000f10        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
  .preinit_array.00020
-                0x0000000020000f0c        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
+                0x0000000020000f14        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
  *(.preinit_array)
-                0x0000000020000f10                PROVIDE (__preinit_array_end = .)
-                0x0000000020000f10                . = ALIGN (0x4)
-                0x0000000020000f10                PROVIDE (__init_array_start = .)
+                0x0000000020000f18                PROVIDE (__preinit_array_end = .)
+                0x0000000020000f18                . = ALIGN (0x4)
+                0x0000000020000f18                PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array)
- .init_array    0x0000000020000f10        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
- .init_array    0x0000000020000f14        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
-                0x0000000020000f18                PROVIDE (__init_array_end = .)
-                0x0000000020000f18                . = ALIGN (0x4)
-                0x0000000020000f18                PROVIDE (__fini_array_start = .)
+ .init_array    0x0000000020000f18        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .init_array    0x0000000020000f1c        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
+                0x0000000020000f20                PROVIDE (__init_array_end = .)
+                0x0000000020000f20                . = ALIGN (0x4)
+                0x0000000020000f20                PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array)
-                0x0000000020000f18                PROVIDE (__fini_array_end = .)
+                0x0000000020000f20                PROVIDE (__fini_array_end = .)
  *(.jcr)
-                0x0000000020000f18                . = ALIGN (0x4)
-                0x0000000020000f18                __data_end__ = .
-                0x000000001000746c                __etext = LOADADDR (.data)
+                0x0000000020000f20                . = ALIGN (0x4)
+                0x0000000020000f20                __data_end__ = .
+                0x0000000010007c34                __etext = LOADADDR (.data)
 
 .tm_clone_table
-                0x0000000020000f18        0x0 load address 0x00000000100082c4
+                0x0000000020000f20        0x0 load address 0x0000000010008a94
  .tm_clone_table
-                0x0000000020000f18        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x0000000020000f20        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
  .tm_clone_table
-                0x0000000020000f18        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+                0x0000000020000f20        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
 
-.igot.plt       0x0000000020000f18        0x0 load address 0x00000000100082c4
- .igot.plt      0x0000000020000f18        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+.igot.plt       0x0000000020000f20        0x0 load address 0x0000000010008a94
+ .igot.plt      0x0000000020000f20        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
 
 .uninitialized_data
-                0x0000000020000f18        0x0 load address 0x00000000100082c4
-                0x0000000020000f18                . = ALIGN (0x4)
+                0x0000000020000f20        0x0 load address 0x0000000010008a94
+                0x0000000020000f20                . = ALIGN (0x4)
  *(.uninitialized_data*)
 
-.scratch_x      0x0000000020040000        0x0 load address 0x00000000100082c4
+.scratch_x      0x0000000020040000        0x0 load address 0x0000000010008a94
                 0x0000000020040000                __scratch_x_start__ = .
  *(.scratch_x.*)
                 0x0000000020040000                . = ALIGN (0x4)
                 0x0000000020040000                __scratch_x_end__ = .
-                0x00000000100082c4                __scratch_x_source__ = LOADADDR (.scratch_x)
+                0x0000000010008a94                __scratch_x_source__ = LOADADDR (.scratch_x)
 
-.scratch_y      0x0000000020041000        0x0 load address 0x00000000100082c4
+.scratch_y      0x0000000020041000        0x0 load address 0x0000000010008a94
                 0x0000000020041000                __scratch_y_start__ = .
  *(.scratch_y.*)
                 0x0000000020041000                . = ALIGN (0x4)
                 0x0000000020041000                __scratch_y_end__ = .
-                0x00000000100082c4                __scratch_y_source__ = LOADADDR (.scratch_y)
+                0x0000000010008a94                __scratch_y_source__ = LOADADDR (.scratch_y)
 
-.bss            0x0000000020000f18      0xd88
-                0x0000000020000f18                . = ALIGN (0x4)
-                0x0000000020000f18                __bss_start__ = .
+.bss            0x0000000020000f20      0xd88
+                0x0000000020000f20                . = ALIGN (0x4)
+                0x0000000020000f20                __bss_start__ = .
  *(SORT_BY_ALIGNMENT(SORT_BY_NAME(.bss*)))
  .bss.default_alarm_pool_entries
-                0x0000000020000f18      0x100 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000020000f20      0x100 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
  .bss.last_avail_time.1
-                0x0000000020001018        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
- .bss.sd_table  0x0000000020001020      0x100 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
-                0x0000000020001020                sd_table
- .bss.sf_table  0x0000000020001120      0x100 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
-                0x0000000020001120                sf_table
- .bss           0x0000000020001220       0x1c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x0000000020001020        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+ .bss.sd_table  0x0000000020001028      0x100 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
+                0x0000000020001028                sd_table
+ .bss.sf_table  0x0000000020001128      0x100 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
+                0x0000000020001128                sf_table
+ .bss           0x0000000020001228       0x1c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
  .bss._app_driver
-                0x000000002000123c        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x0000000020001244        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
  .bss._cdcd_itf
-                0x0000000020001240      0x2c8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x0000000020001248      0x2c8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
  .bss._ctrl_xfer
-                0x0000000020001508       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+                0x0000000020001510       0x14 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
  .bss._ubsd_mutexdef
-                0x000000002000151c        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x0000000020001524        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
  .bss._usbd_ctrl_buf
-                0x0000000020001524       0x40 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+                0x000000002000152c       0x40 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
  .bss._usbd_dev
-                0x0000000020001564       0x53 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
- *fill*         0x00000000200015b7        0x1 
+                0x000000002000156c       0x53 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+ *fill*         0x00000000200015bf        0x1 
  .bss._usbd_mutex
-                0x00000000200015b8        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
- .bss._usbd_q   0x00000000200015bc        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x00000000200015c0        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+ .bss._usbd_q   0x00000000200015c4        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
  .bss._usbd_qdef_buf
-                0x00000000200015c0       0xc0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x00000000200015c0                _usbd_qdef_buf
+                0x00000000200015c8       0xc0 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x00000000200015c8                _usbd_qdef_buf
  .bss.alarm_callbacks
-                0x0000000020001680       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x0000000020001688       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
  .bss.boot2_copyout
-                0x0000000020001690      0x100 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
+                0x0000000020001698      0x100 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
  .bss.chars_available_callback
-                0x0000000020001790        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x0000000020001798        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .bss.chars_available_param
-                0x0000000020001794        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
- .bss.claimed   0x0000000020001798        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+                0x000000002000179c        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+ .bss.claimed   0x00000000200017a0        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
  .bss.configured_freq
-                0x000000002000179c       0x28 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
+                0x00000000200017a4       0x28 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
  .bss.default_alarm_pool_entry_ids_high
-                0x00000000200017c4       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
+                0x00000000200017cc       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
  .bss.default_alarm_pool_heap_nodes
-                0x00000000200017d4       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
+                0x00000000200017dc       0x30 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
  .bss.desc_str.0
-                0x0000000020001804       0x28 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
- .bss.drivers   0x000000002000182c        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x000000002000180c       0x28 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+ .bss.drivers   0x0000000020001834        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .bss.e15_last_sof
-                0x0000000020001830        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
-                0x0000000020001830                e15_last_sof
- .bss.filter    0x0000000020001834        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000020001838        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+                0x0000000020001838                e15_last_sof
+ .bss.filter    0x000000002000183c        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .bss.hw_endpoints
-                0x0000000020001838      0x400 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x0000000020001840      0x400 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
  .bss.lazy_vsnprintf
-                0x0000000020001c38        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x0000000020001c40        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .bss.load_value
-                0x0000000020001c3c        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
+                0x0000000020001c44        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
  .bss.next_buffer_ptr
-                0x0000000020001c40        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x0000000020001c48        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
  .bss.one_shot_timer_crit_sec
-                0x0000000020001c44        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
- .bss.pools     0x0000000020001c4c       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000020001c4c        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+ .bss.pools     0x0000000020001c54       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
  .bss.retrieved_id
-                0x0000000020001c5c        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
+                0x0000000020001c64        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
  .bss.sf_clz_func
-                0x0000000020001c64        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
-                0x0000000020001c64                sf_clz_func
+                0x0000000020001c6c        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
+                0x0000000020001c6c                sf_clz_func
  .bss.sleep_notifier
-                0x0000000020001c68        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000020001c70        0x4 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/common/pico_time/time.c.obj
  .bss.stdio_usb_mutex
-                0x0000000020001c6c        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x0000000020001c74        0x8 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .bss.target_hi
-                0x0000000020001c74       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x0000000020001c7c       0x10 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
  .bss.usbd_serial_str
-                0x0000000020001c84       0x11 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+                0x0000000020001c8c       0x11 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
  .bss._app_driver_count
-                0x0000000020001c95        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x0000000020001c9d        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
  .bss._sof_enable
-                0x0000000020001c96        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x0000000020001c9e        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
  .bss.boot2_copyout_valid
-                0x0000000020001c97        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
- .bss.claimed   0x0000000020001c98        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x0000000020001c9f        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
+ .bss.claimed   0x0000000020001ca0        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
  .bss.irq_hander_chain_free_slot_head
-                0x0000000020001c99        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- .bss.itf_num   0x0000000020001c9a        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x0000000020001ca1        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+ .bss.itf_num   0x0000000020001ca2        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .bss.low_priority_irq_num
-                0x0000000020001c9b        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x0000000020001ca3        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .bss.one_shot_timer_pending
-                0x0000000020001c9c        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x0000000020001ca4        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .bss.timer_callbacks_pending
-                0x0000000020001c9d        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x0000000020001ca5        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
  .bss.user_irq_claimed
-                0x0000000020001c9e        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000020001ca6        0x1 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
  *(COMMON)
-                0x0000000020001ca0                . = ALIGN (0x4)
- *fill*         0x0000000020001c9f        0x1 
-                0x0000000020001ca0                __bss_end__ = .
+                0x0000000020001ca8                . = ALIGN (0x4)
+ *fill*         0x0000000020001ca7        0x1 
+                0x0000000020001ca8                __bss_end__ = .
 
-.heap           0x0000000020001ca0      0x800
-                0x0000000020001ca0                __end__ = .
-                0x0000000020001ca0                end = __end__
+.heap           0x0000000020001ca8      0x800
+                0x0000000020001ca8                __end__ = .
+                0x0000000020001ca8                end = __end__
  *(.heap*)
- .heap          0x0000000020001ca0      0x800 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
-                0x00000000200024a0                __HeapLimit = .
+ .heap          0x0000000020001ca8      0x800 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
+                0x00000000200024a8                __HeapLimit = .
 
 .stack1_dummy   0x0000000020040000        0x0
  *(.stack1*)
@@ -2515,8 +2541,8 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nof
  *(.stack*)
  .stack         0x0000000020041000      0x800 CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
 
-.flash_end      0x00000000100082c4        0x0
-                0x00000000100082c4                PROVIDE (__flash_binary_end = .)
+.flash_end      0x0000000010008a94        0x0
+                0x0000000010008a94                PROVIDE (__flash_binary_end = .)
                 0x0000000020040000                __StackLimit = (ORIGIN (RAM) + LENGTH (RAM))
                 0x0000000020041000                __StackOneTop = (ORIGIN (SCRATCH_X) + LENGTH (SCRATCH_X))
                 0x0000000020042000                __StackTop = (ORIGIN (SCRATCH_Y) + LENGTH (SCRATCH_Y))
@@ -2595,7 +2621,7 @@ LOAD CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/tusb.c.obj
 LOAD CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
 LOAD CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
 LOAD CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
-LOAD /tmp/cczRKz9n.o
+LOAD /tmp/ccapCVVp.o
 LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libstdc++.a
 LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libm.a
 START GROUP
@@ -2711,7 +2737,7 @@ LOAD linker stubs
  .ARM.attributes
                 0x00000000000007a8       0x2c CMakeFiles/mpu6050.dir/home/kwon/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
  .ARM.attributes
-                0x00000000000007d4       0x22 /tmp/cczRKz9n.o
+                0x00000000000007d4       0x22 /tmp/ccapCVVp.o
  .ARM.attributes
                 0x00000000000007f6       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
  .ARM.attributes

@@ -2870,7 +2870,8 @@ CMakeFiles/mpu6050.dir/src/main.c.obj: ../src/main.c \
   /usr/include/newlib/sys/_pthreadtypes.h \
   /usr/include/newlib/sys/sched.h \
   /usr/include/newlib/machine/types.h \
-  /usr/include/newlib/sys/stdio.h
+  /usr/include/newlib/sys/stdio.h \
+  /usr/include/newlib/math.h
 
 
 ../src/main.c:

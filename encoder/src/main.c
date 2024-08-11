@@ -5,7 +5,7 @@
 #include "hardware/clocks.h"
 #include <stdio.h>
 
-const uint PIN_NUMBER = 15; // 사용할 핀 번호 설정
+const uint PIN_NUMBER = 3; // 사용할 핀 번호 설정
 
 const uint PWM_PIN = 16;
 
@@ -38,14 +38,14 @@ int main() {
             // 라이징 엣지가 발생했음을 감지
             // 여기에 원하는 동작을 추가하세요 (예: LED 켜기, 메시지 출력 등)
             float rps =  0.5f/(0.000001 * (current_time-last_time)); 
-            printf("Speed : %f rps PWM Duty : %d\n" , rps , pwm_duty);
+            //printf("Speed : %f rps PWM Duty : %d\n" , rps , pwm_duty);
             pwm_duty = 300 * (50 - rps);
             pwm_set_chan_level(slice_num, PWM_CHAN_A, pwm_duty);
             last_time = current_time;
         }
-
+	printf("%d\n",current_state);
         last_state = current_state; // 상태 업데이트
-        //sleep_ms(10); // 불필요한 리소스 사용을 줄이기 위해 잠시 대기
+        sleep_ms(10); // 불필요한 리소스 사용을 줄이기 위해 잠시 대기
     }
 
     return 0;

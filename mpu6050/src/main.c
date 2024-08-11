@@ -1,11 +1,13 @@
 #include "pico/stdlib.h"
 #include "hardware/i2c.h"
 #include <stdio.h>
+#include <math.h>
 
-#define I2C_PORT i2c0
-#define SDA_PIN 16
-#define SCL_PIN 17
+#define I2C_PORT i2c1
+#define SDA_PIN 14
+#define SCL_PIN 11
 #define MPU6050_ADDR 0x68
+#define R2D 180/3.141592
 
 void mpu6050_init() {
     uint8_t buf[2];
@@ -71,6 +73,12 @@ void low_pass_filter(float* analog_accel, float* filtered_accel)
 
 }
 
+void cal_angle(float* filtered_accel, float* filtered_gyro, float* angle)
+{
+    angle[0] = R2D * atan2(filtered_accel[1], sqrt(pow(filtered_accel[0],2) + pow(filtered_accel[2],2))) + filtered_gyro[0] * 0.01;
+    angle[1] = R2D * atan2(filtered_accel[0], sqrt(pow(filtered_accel[1],2) + pow(filtered_accel[2],2))) + filtered_gyro[1] * 0.01;
+}
+
 int main() {
     stdio_init_all();
 
@@ -88,16 +96,20 @@ int main() {
     float analog_accel[3], analog_gyro[3];
     float filter_accel[3] ={0,0,0};
     float filter_gyro[3] ={0,0,0};
+    float angles[3] = {0, 0, 0};
 
     while (1) {
         mpu6050_read_raw(accel, gyro);
         calculate_raw_acc(accel, analog_accel);
         calculate_raw_gyro(gyro, analog_gyro);
         low_pass_filter(analog_accel,filter_accel);
-        printf("Accel: X=%f, Y=%f, Z=%f\n", filter_accel[0], filter_accel[1], filter_accel[2]);
-        printf("Gyro:  X=%f, Y=%f, Z=%f\n", analog_gyro[0], analog_gyro[1], analog_gyro[2]);
+        cal_angle(filter_accel,filter_gyro,angles);
+        
+        printf("%f,%f,%f\n", angles[0], angles[1], angles[2]);
+        //printf("Accel: X=%f, Y=%f, Z=%f\n", filter_accel[0], filter_accel[1], filter_accel[2]);
+        //printf("Gyro:  X=%f, Y=%f, Z=%f\n", analog_gyro[0], analog_gyro[1], analog_gyro[2]);
 
-        sleep_ms(100);
+        sleep_ms(10);
     }
 
     return 0;

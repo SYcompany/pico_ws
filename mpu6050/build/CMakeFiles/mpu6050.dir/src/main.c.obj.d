@@ -58,4 +58,5 @@ CMakeFiles/mpu6050.dir/src/main.c.obj: \
  /usr/include/newlib/sys/_sigset.h /usr/include/newlib/sys/_timeval.h \
  /usr/include/newlib/sys/timespec.h /usr/include/newlib/sys/_timespec.h \
  /usr/include/newlib/sys/_pthreadtypes.h /usr/include/newlib/sys/sched.h \
- /usr/include/newlib/machine/types.h /usr/include/newlib/sys/stdio.h
+ /usr/include/newlib/machine/types.h /usr/include/newlib/sys/stdio.h \
+ /usr/include/newlib/math.h
