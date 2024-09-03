@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/kwon/embedded_ws/rasberry_ws/pico_ws/button
+CMAKE_SOURCE_DIR = "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build
+CMAKE_BINARY_DIR = "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build"
 
 # Utility rule file for ELF2UF2Build.
 
@@ -76,51 +76,51 @@ CMakeFiles/ELF2UF2Build-complete: elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-pa
 CMakeFiles/ELF2UF2Build-complete: elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure
 CMakeFiles/ELF2UF2Build-complete: elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build
 CMakeFiles/ELF2UF2Build-complete: elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Completed 'ELF2UF2Build'"
-	/usr/bin/cmake -E make_directory /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/CMakeFiles
-	/usr/bin/cmake -E touch /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/CMakeFiles/ELF2UF2Build-complete
-	/usr/bin/cmake -E touch /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-done
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir="/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Completed 'ELF2UF2Build'"
+	/usr/bin/cmake -E make_directory "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/CMakeFiles"
+	/usr/bin/cmake -E touch "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/CMakeFiles/ELF2UF2Build-complete"
+	/usr/bin/cmake -E touch "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-done"
 
 elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build: elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Performing build step for 'ELF2UF2Build'"
-	cd /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2 && $(MAKE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir="/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Performing build step for 'ELF2UF2Build'"
+	cd "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2" && $(MAKE)
 
 elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure: elf2uf2/tmp/ELF2UF2Build-cfgcmd.txt
 elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure: elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Performing configure step for 'ELF2UF2Build'"
-	cd /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2 && /usr/bin/cmake -DCMAKE_MAKE_PROGRAM:FILEPATH=/usr/bin/gmake "-GUnix Makefiles" /home/kwon/pico-sdk/tools/elf2uf2
-	cd /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2 && /usr/bin/cmake -E touch /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir="/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Performing configure step for 'ELF2UF2Build'"
+	cd "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2" && /usr/bin/cmake -DCMAKE_MAKE_PROGRAM:FILEPATH=/usr/bin/gmake "-GUnix Makefiles" /home/kwon/pico-sdk/tools/elf2uf2
+	cd "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2" && /usr/bin/cmake -E touch "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure"
 
 elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download: elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "No download step for 'ELF2UF2Build'"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir="/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "No download step for 'ELF2UF2Build'"
 	/usr/bin/cmake -E echo_append
-	/usr/bin/cmake -E touch /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download
+	/usr/bin/cmake -E touch "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download"
 
 elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install: elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "No install step for 'ELF2UF2Build'"
-	cd /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2 && /usr/bin/cmake -E echo_append
-	cd /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2 && /usr/bin/cmake -E touch /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir="/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "No install step for 'ELF2UF2Build'"
+	cd "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2" && /usr/bin/cmake -E echo_append
+	cd "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2" && /usr/bin/cmake -E touch "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install"
 
 elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Creating directories for 'ELF2UF2Build'"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir="/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Creating directories for 'ELF2UF2Build'"
 	/usr/bin/cmake -E make_directory /home/kwon/pico-sdk/tools/elf2uf2
-	/usr/bin/cmake -E make_directory /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2
-	/usr/bin/cmake -E make_directory /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2
-	/usr/bin/cmake -E make_directory /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2/tmp
-	/usr/bin/cmake -E make_directory /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2/src/ELF2UF2Build-stamp
-	/usr/bin/cmake -E make_directory /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2/src
-	/usr/bin/cmake -E make_directory /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2/src/ELF2UF2Build-stamp
-	/usr/bin/cmake -E touch /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir
+	/usr/bin/cmake -E make_directory "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2"
+	/usr/bin/cmake -E make_directory "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2"
+	/usr/bin/cmake -E make_directory "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2/tmp"
+	/usr/bin/cmake -E make_directory "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2/src/ELF2UF2Build-stamp"
+	/usr/bin/cmake -E make_directory "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2/src"
+	/usr/bin/cmake -E make_directory "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2/src/ELF2UF2Build-stamp"
+	/usr/bin/cmake -E touch "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir"
 
 elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch: elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "No patch step for 'ELF2UF2Build'"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir="/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "No patch step for 'ELF2UF2Build'"
 	/usr/bin/cmake -E echo_append
-	/usr/bin/cmake -E touch /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch
+	/usr/bin/cmake -E touch "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch"
 
 elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update: elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "No update step for 'ELF2UF2Build'"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir="/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "No update step for 'ELF2UF2Build'"
 	/usr/bin/cmake -E echo_append
-	/usr/bin/cmake -E touch /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update
+	/usr/bin/cmake -E touch "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update"
 
 ELF2UF2Build: CMakeFiles/ELF2UF2Build
 ELF2UF2Build: CMakeFiles/ELF2UF2Build-complete
@@ -143,6 +143,6 @@ CMakeFiles/ELF2UF2Build.dir/clean:
 .PHONY : CMakeFiles/ELF2UF2Build.dir/clean
 
 CMakeFiles/ELF2UF2Build.dir/depend:
-	cd /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kwon/embedded_ws/rasberry_ws/pico_ws/button /home/kwon/embedded_ws/rasberry_ws/pico_ws/button /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/CMakeFiles/ELF2UF2Build.dir/DependInfo.cmake --color=$(COLOR)
+	cd "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)" "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)" "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build" "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build" "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/CMakeFiles/ELF2UF2Build.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/ELF2UF2Build.dir/depend
 

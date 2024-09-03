@@ -1,4 +1,4 @@
-// Padded and checksummed version of: /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin
+// Padded and checksummed version of: /home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin
 
 .cpu cortex-m0plus
 .thumb

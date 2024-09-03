@@ -591,18 +591,18 @@ Disassembly of section .text:
 10000556:	4849      	ldr	r0, [pc, #292]	; (1000067c <main+0x134>)
 10000558:	f006 ff48 	bl	100073ec <i2c_init>
 1000055c:	2103      	movs	r1, #3
-1000055e:	200e      	movs	r0, #14
+1000055e:	2006      	movs	r0, #6
 10000560:	f000 f896 	bl	10000690 <gpio_set_function>
 10000564:	2103      	movs	r1, #3
-10000566:	200b      	movs	r0, #11
+10000566:	2003      	movs	r0, #3
 10000568:	f000 f892 	bl	10000690 <gpio_set_function>
 1000056c:	2200      	movs	r2, #0
 1000056e:	2101      	movs	r1, #1
-10000570:	200e      	movs	r0, #14
+10000570:	2006      	movs	r0, #6
 10000572:	f000 f8a5 	bl	100006c0 <gpio_set_pulls>
 10000576:	2200      	movs	r2, #0
 10000578:	2101      	movs	r1, #1
-1000057a:	200b      	movs	r0, #11
+1000057a:	2003      	movs	r0, #3
 1000057c:	f000 f8a0 	bl	100006c0 <gpio_set_pulls>
 10000580:	f7ff fee8 	bl	10000354 <mpu6050_init>
 10000584:	2300      	movs	r3, #0

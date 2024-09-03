@@ -27,9 +27,9 @@ CMakeFiles/button.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: 
  /usr/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
  /usr/include/newlib/assert.h \
  /usr/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
- /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/generated/pico_base/pico/version.h \
+ /home/kwon/embedded_ws/rasberry_ws/pico_ws/button\ (copy)/build/generated/pico_base/pico/version.h \
  /home/kwon/pico-sdk/src/common/pico_base/include/pico/config.h \
- /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/generated/pico_base/pico/config_autogen.h \
+ /home/kwon/embedded_ws/rasberry_ws/pico_ws/button\ (copy)/build/generated/pico_base/pico/config_autogen.h \
  /home/kwon/pico-sdk/src/boards/include/boards/pico.h \
  /home/kwon/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
  /home/kwon/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
@@ -49,8 +49,4 @@ CMakeFiles/button.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: 
  /home/kwon/pico-sdk/src/common/pico_sync/include/pico/mutex.h \
  /home/kwon/pico-sdk/src/common/pico_sync/include/pico/lock_core.h \
  /home/kwon/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
- /home/kwon/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h \
- /home/kwon/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
- /home/kwon/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/uart.h \
- /home/kwon/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h \
- /home/kwon/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dreq.h
+ /home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h

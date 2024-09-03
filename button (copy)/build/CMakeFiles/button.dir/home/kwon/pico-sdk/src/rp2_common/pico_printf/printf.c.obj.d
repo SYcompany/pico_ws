@@ -22,9 +22,9 @@ CMakeFiles/button.dir/home/kwon/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  /home/kwon/pico-sdk/src/common/pico_base/include/pico/types.h \
  /home/kwon/pico-sdk/src/common/pico_base/include/pico/assert.h \
  /usr/include/newlib/assert.h \
- /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/generated/pico_base/pico/version.h \
+ /home/kwon/embedded_ws/rasberry_ws/pico_ws/button\ (copy)/build/generated/pico_base/pico/version.h \
  /home/kwon/pico-sdk/src/common/pico_base/include/pico/config.h \
- /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/generated/pico_base/pico/config_autogen.h \
+ /home/kwon/embedded_ws/rasberry_ws/pico_ws/button\ (copy)/build/generated/pico_base/pico/config_autogen.h \
  /home/kwon/pico-sdk/src/boards/include/boards/pico.h \
  /home/kwon/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
  /home/kwon/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \

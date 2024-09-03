@@ -44,4 +44,15 @@ CMakeFiles/button.dir/src/main.c.obj: \
  /home/kwon/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/uart.h \
  /home/kwon/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h \
  /home/kwon/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dreq.h \
- /home/kwon/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h
+ /home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h \
+ /usr/include/newlib/stdio.h \
+ /usr/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+ /usr/include/newlib/sys/reent.h /usr/include/newlib/_ansi.h \
+ /usr/include/newlib/sys/_types.h /usr/include/newlib/machine/_types.h \
+ /usr/include/newlib/sys/lock.h /usr/include/newlib/sys/types.h \
+ /usr/include/newlib/sys/_stdint.h /usr/include/newlib/machine/endian.h \
+ /usr/include/newlib/machine/_endian.h /usr/include/newlib/sys/select.h \
+ /usr/include/newlib/sys/_sigset.h /usr/include/newlib/sys/_timeval.h \
+ /usr/include/newlib/sys/timespec.h /usr/include/newlib/sys/_timespec.h \
+ /usr/include/newlib/sys/_pthreadtypes.h /usr/include/newlib/sys/sched.h \
+ /usr/include/newlib/machine/types.h /usr/include/newlib/sys/stdio.h

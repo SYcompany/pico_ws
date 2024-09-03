@@ -11,9 +11,9 @@ CMakeFiles/button.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
  /usr/include/newlib/sys/features.h \
  /usr/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
  /usr/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
- /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/generated/pico_base/pico/version.h \
+ /home/kwon/embedded_ws/rasberry_ws/pico_ws/button\ (copy)/build/generated/pico_base/pico/version.h \
  /home/kwon/pico-sdk/src/common/pico_base/include/pico/config.h \
- /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/generated/pico_base/pico/config_autogen.h \
+ /home/kwon/embedded_ws/rasberry_ws/pico_ws/button\ (copy)/build/generated/pico_base/pico/config_autogen.h \
  /home/kwon/pico-sdk/src/boards/include/boards/pico.h \
  /home/kwon/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
  /home/kwon/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
@@ -44,10 +44,14 @@ CMakeFiles/button.dir/home/kwon/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
  /home/kwon/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/uart.h \
  /home/kwon/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h \
  /home/kwon/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dreq.h \
- /home/kwon/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h \
+ /home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h \
  /home/kwon/pico-sdk/src/rp2_common/hardware_pll/include/hardware/pll.h \
  /home/kwon/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/pll.h \
  /home/kwon/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pll.h \
  /home/kwon/pico-sdk/src/rp2_common/hardware_clocks/include/hardware/clocks.h \
  /home/kwon/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/clocks.h \
- /home/kwon/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/clocks.h
+ /home/kwon/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/clocks.h \
+ /home/kwon/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h \
+ /home/kwon/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h \
+ /home/kwon/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h \
+ /home/kwon/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h

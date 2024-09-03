@@ -1,11 +1,12 @@
 #include "pico/stdlib.h"
 #include "hardware/i2c.h"
+
 #include <stdio.h>
 #include <math.h>
 
 #define I2C_PORT i2c1
-#define SDA_PIN 14
-#define SCL_PIN 11
+#define SDA_PIN 6
+#define SCL_PIN 3
 #define MPU6050_ADDR 0x68
 #define R2D 180/3.141592
 

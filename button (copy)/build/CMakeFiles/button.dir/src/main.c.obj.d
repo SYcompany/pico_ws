@@ -1,5 +1,5 @@
 CMakeFiles/button.dir/src/main.c.obj: \
- /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/src/main.c \
+ /home/kwon/embedded_ws/rasberry_ws/pico_ws/button\ (copy)/src/main.c \
  /home/kwon/pico-sdk/src/common/pico_stdlib/include/pico/stdlib.h \
  /home/kwon/pico-sdk/src/common/pico_base/include/pico.h \
  /home/kwon/pico-sdk/src/common/pico_base/include/pico/types.h \
@@ -11,9 +11,9 @@ CMakeFiles/button.dir/src/main.c.obj: \
  /usr/include/newlib/sys/features.h \
  /usr/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
  /usr/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
- /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/generated/pico_base/pico/version.h \
+ /home/kwon/embedded_ws/rasberry_ws/pico_ws/button\ (copy)/build/generated/pico_base/pico/version.h \
  /home/kwon/pico-sdk/src/common/pico_base/include/pico/config.h \
- /home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/generated/pico_base/pico/config_autogen.h \
+ /home/kwon/embedded_ws/rasberry_ws/pico_ws/button\ (copy)/build/generated/pico_base/pico/config_autogen.h \
  /home/kwon/pico-sdk/src/boards/include/boards/pico.h \
  /home/kwon/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
  /home/kwon/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
@@ -44,4 +44,15 @@ CMakeFiles/button.dir/src/main.c.obj: \
  /home/kwon/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/uart.h \
  /home/kwon/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h \
  /home/kwon/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dreq.h \
- /home/kwon/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h
+ /home/kwon/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h \
+ /usr/include/newlib/stdio.h \
+ /usr/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+ /usr/include/newlib/sys/reent.h /usr/include/newlib/_ansi.h \
+ /usr/include/newlib/sys/_types.h /usr/include/newlib/machine/_types.h \
+ /usr/include/newlib/sys/lock.h /usr/include/newlib/sys/types.h \
+ /usr/include/newlib/sys/_stdint.h /usr/include/newlib/machine/endian.h \
+ /usr/include/newlib/machine/_endian.h /usr/include/newlib/sys/select.h \
+ /usr/include/newlib/sys/_sigset.h /usr/include/newlib/sys/_timeval.h \
+ /usr/include/newlib/sys/timespec.h /usr/include/newlib/sys/_timespec.h \
+ /usr/include/newlib/sys/_pthreadtypes.h /usr/include/newlib/sys/sched.h \
+ /usr/include/newlib/machine/types.h /usr/include/newlib/sys/stdio.h

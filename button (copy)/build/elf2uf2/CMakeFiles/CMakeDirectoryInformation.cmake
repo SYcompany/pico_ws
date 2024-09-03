@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/home/kwon/pico-sdk/tools/elf2uf2")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button/build/elf2uf2")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/kwon/embedded_ws/rasberry_ws/pico_ws/button (copy)/build/elf2uf2")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)
